@@ -1,0 +1,21 @@
+{
+    "name": "skyline",
+    "displayName": "skyline",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Skyline",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Skyline-color-theme.json"
+            }
+        ]
+    }
+}
