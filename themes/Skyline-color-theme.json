@@ -22,7 +22,11 @@
     "sideBarTitle.foreground": "#4f5599",
     "sideBar.background": "#1b1e33",
 
-    "statusBar.background": "#6a72d3"
+    "list.activeSelectionBackground": "#22253f",
+    "list.hoverBackground": "#22253f",
+    "list.inactiveSelectionBackground": "#22253f",
+
+    "statusBar.background": "#22253f"
   },
   "tokenColors": [
     {
