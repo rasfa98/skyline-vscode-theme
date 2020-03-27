@@ -1,21 +1,25 @@
 {
-    "name": "skyline",
-    "displayName": "Skyline",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.43.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Skyline",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Skyline-color-theme.json"
-            }
-        ]
-    }
+  "name": "skyline",
+  "displayName": "Skyline",
+  "description": "",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rasfa98/skyline-vscode-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Skyline",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Skyline-color-theme.json"
+      }
+    ]
+  }
 }
