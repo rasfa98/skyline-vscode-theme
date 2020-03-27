@@ -1,3 +1,4 @@
-# Skyline :bridge_at_night:
-
-A vscode theme with colors reminiscent of a big city at night.
+<p align="center">
+<img src="./images/skyline.png" alt="Skyline" style="" >
+<img src="./images/demo.png" alt="Demo">
+</p>
