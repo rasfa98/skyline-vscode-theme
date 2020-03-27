@@ -16,12 +16,20 @@
 
     "tab.activeBackground": "#22253f",
     "tab.inactiveBackground": "#141625",
+    "tab.activeBorder": "#EEFFFF",
 
     "activityBarBadge.background": "#4f5599",
     "activityBar.background": "#1b1e33",
 
-    "sideBarTitle.foreground": "#4f5599",
+    "sideBarTitle.foreground": "#EEFFFF",
     "sideBar.background": "#1b1e33",
+    "sideBarSectionHeader.background": "#22253f",
+    "sideBarSectionHeader.foreground": "#EEFFFF",
+    "sideBar.border": "#2b2e52",
+
+    "panel.border": "#2b2e52",
+    "panelTitle.activeBorder": "#2b2e52",
+    "panelInput.border": "#2b2e52",
 
     "list.activeSelectionBackground": "#22253f",
     "list.hoverBackground": "#22253f",
