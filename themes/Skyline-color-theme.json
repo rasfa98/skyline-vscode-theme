@@ -2,8 +2,32 @@
   "name": "Skyline",
   "type": "dark",
   "colors": {
+    "focusBorder": "#373b69",
+    "foreground": "#EEFFFF",
+    "widget.shadow": "#111320",
+    "selection.background": "#4f5599",
+
+    "textLink.activeForeground": "#99a0ee",
+    "textLink.foreground": "#7a81c9",
+
+    "dropdown.background": "#22253f",
+    "dropdown.listBackground": "#141625",
+    "dropdown.border": "#2b2e52",
+
+    "progressBar.background": "#7a81c9",
+
+    "button.background": "#7a81c9",
+    "button.hoverBackground": "#99a0ee",
+    "checkbox.background": "#7a81c9",
+    "checkbox.border": "#2b2e52",
+
+    "input.background": "#22253f",
+
+    "window.activeBorder": "#2b2e52",
+    "window.inactiveBorder": "#141625",
+
     "editor.background": "#1b1e33",
-    "editor.foreground": "#EEFFFF",
+
     "editorLineNumber.foreground": "#4f5599",
     "editorCursor.background": "#4f5599",
     "editorCursor.foreground": "#4f5599",
@@ -21,11 +45,13 @@
     "activityBarBadge.background": "#4f5599",
     "activityBar.background": "#1b1e33",
 
-    "sideBarTitle.foreground": "#EEFFFF",
     "sideBar.background": "#1b1e33",
     "sideBarSectionHeader.background": "#22253f",
-    "sideBarSectionHeader.foreground": "#EEFFFF",
     "sideBar.border": "#2b2e52",
+
+    "scrollbarSlider.background": "#22253f",
+    "scrollbarSlider.hoverBackground": "#31355a",
+    "scrollbarSlider.activeBackground": "#31355a",
 
     "panel.border": "#2b2e52",
     "panelTitle.activeBorder": "#2b2e52",
@@ -34,6 +60,7 @@
     "list.activeSelectionBackground": "#22253f",
     "list.hoverBackground": "#22253f",
     "list.inactiveSelectionBackground": "#22253f",
+    "list.dropBackground": "#22253f",
 
     "statusBar.background": "#22253f"
   },
