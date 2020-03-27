@@ -1,8 +1,11 @@
 {
   "name": "skyline",
   "displayName": "Skyline",
-  "description": "",
+  "description": "A dark vscode theme with sweet colors.",
   "version": "0.0.1",
+  "publisher": "rasfa98",
+  "license": "SEE LICENSE IN LICENSE",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/rasfa98/skyline-vscode-theme.git"
@@ -13,6 +16,17 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "Dark",
+    "Skyline",
+    "Night",
+    "Purple",
+    "Colors"
+  ],
+  "galleryBanner": {
+    "color": "#1b1e33",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
@@ -21,5 +35,10 @@
         "path": "./themes/Skyline-color-theme.json"
       }
     ]
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/rasfa98/skyline-vscode-theme/issues",
+    "email": "1998.rasmus.falk@gmail.com"
+  },
+  "homepage": "https://github.com/rasfa98/skyline-vscode-theme/blob/master/README.md"
 }

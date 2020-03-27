@@ -1,4 +1,4 @@
 # Skyline
 
-![Demo](./images/demo.png)
+![Demo](images/demo.png)
 
