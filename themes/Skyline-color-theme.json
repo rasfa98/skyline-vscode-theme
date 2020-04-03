@@ -59,6 +59,8 @@
     "list.dropBackground": "#22253f",
 
     "statusBar.background": "#22253f",
+    "statusBar.border": "#2b2e52",
+    "statusBar.debuggingBackground": "#4f5599",
 
     "gitDecoration.addedResourceForeground": "#5be7ad",
     "gitDecoration.modifiedResourceForeground": "#C792EA"
