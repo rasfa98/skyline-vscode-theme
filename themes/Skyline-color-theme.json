@@ -49,10 +49,6 @@
     "sideBarSectionHeader.background": "#22253f",
     "sideBar.border": "#2b2e52",
 
-    "scrollbarSlider.background": "#22253f",
-    "scrollbarSlider.hoverBackground": "#31355a",
-    "scrollbarSlider.activeBackground": "#31355a",
-
     "panel.border": "#2b2e52",
     "panelTitle.activeBorder": "#2b2e52",
     "panelInput.border": "#2b2e52",
@@ -62,7 +58,10 @@
     "list.inactiveSelectionBackground": "#22253f",
     "list.dropBackground": "#22253f",
 
-    "statusBar.background": "#22253f"
+    "statusBar.background": "#22253f",
+
+    "gitDecoration.addedResourceForeground": "#5be7ad",
+    "gitDecoration.modifiedResourceForeground": "#C792EA"
   },
   "tokenColors": [
     {
