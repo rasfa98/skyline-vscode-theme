@@ -38,9 +38,14 @@
     "editorGroup.border": "#4f5599",
     "editorGroupHeader.tabsBorder": "#2b2e52",
 
+    "editorWidget.background": "#22253f",
+    "editorWidget.resizeBorder": "#EEFFFF",
+
     "tab.activeBackground": "#22253f",
     "tab.inactiveBackground": "#141625",
     "tab.activeBorder": "#EEFFFF",
+
+    "badge.background": "#4f5599",
 
     "activityBarBadge.background": "#4f5599",
     "activityBar.background": "#1b1e33",
